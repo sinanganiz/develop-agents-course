@@ -25,5 +25,6 @@
   </Folder>
   <Folder Name="/section7-memory/">
     <Project Path="section7-memory/CustomContextProvider/CustomContextProvider.csproj" Id="4dab6271-0409-4dbf-84bf-cb959c727c67" />
+    <Project Path="section7-memory/MockCosmosDb/MockCosmosDb.csproj" Id="7cfd7d51-5790-4892-88ef-8212f7a19f9a" />
   </Folder>
 </Solution>
