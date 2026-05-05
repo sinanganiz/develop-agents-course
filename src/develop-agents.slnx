@@ -18,4 +18,9 @@
     <Project Path="section6-tool-use/CodeInterpreter/CodeInterpreter.csproj" Id="b3de5f4b-db60-41d4-9a1e-2bcca3084fd4" />
     <Project Path="section6-tool-use/FunctionCall/FunctionCall.csproj" Id="0044f9d7-c5f1-4edd-baef-3f35c071151a" />
   </Folder>
+  <Folder Name="/section6-tool-use/MinimalAgentWithTools/">
+    <Project Path="section6-tool-use/MinimalAgentWithTools/AppHost/AppHost.csproj" />
+    <Project Path="section6-tool-use/MinimalAgentWithTools/ServiceDefaults/ServiceDefaults.csproj" />
+    <Project Path="section6-tool-use/MinimalAgentWithTools/WebApi/WebApi.csproj" />
+  </Folder>
 </Solution>
