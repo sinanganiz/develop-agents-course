@@ -23,4 +23,7 @@
     <Project Path="section6-tool-use/MinimalAgentWithTools/ServiceDefaults/ServiceDefaults.csproj" />
     <Project Path="section6-tool-use/MinimalAgentWithTools/WebApi/WebApi.csproj" />
   </Folder>
+  <Folder Name="/section7-memory/">
+    <Project Path="section7-memory/CustomContextProvider/CustomContextProvider.csproj" Id="4dab6271-0409-4dbf-84bf-cb959c727c67" />
+  </Folder>
 </Solution>
