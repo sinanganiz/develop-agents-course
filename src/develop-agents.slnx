@@ -28,6 +28,7 @@
     <Project Path="section7-memory/MockCosmosDb/MockCosmosDb.csproj" Id="7cfd7d51-5790-4892-88ef-8212f7a19f9a" />
   </Folder>
   <Folder Name="/section8-workflows/">
+    <Project Path="section8-workflows/AgentsWorkflow/AgentsWorkflow.csproj" Id="5b70d863-bb58-4c0b-bf73-b801df7138df" />
     <Project Path="section8-workflows/FirstWorkflow/FirstWorkflow.csproj" Id="579947d7-36be-466b-b0af-856ca7367207" />
   </Folder>
 </Solution>
