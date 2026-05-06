@@ -31,4 +31,7 @@
     <Project Path="section8-workflows/AgentsWorkflow/AgentsWorkflow.csproj" Id="5b70d863-bb58-4c0b-bf73-b801df7138df" />
     <Project Path="section8-workflows/FirstWorkflow/FirstWorkflow.csproj" Id="579947d7-36be-466b-b0af-856ca7367207" />
   </Folder>
+  <Folder Name="/section9-workflow-patterns/">
+    <Project Path="section9-workflow-patterns/AgenticWorkflowPatterns/AgenticWorkflowPatterns.csproj" Id="b89bfd75-2438-461f-bbab-b66c2e887f3e" />
+  </Folder>
 </Solution>
