@@ -34,4 +34,9 @@
   <Folder Name="/section9-workflow-patterns/">
     <Project Path="section9-workflow-patterns/AgenticWorkflowPatterns/AgenticWorkflowPatterns.csproj" Id="b89bfd75-2438-461f-bbab-b66c2e887f3e" />
   </Folder>
+  <Folder Name="/section9-workflow-patterns/MinimalAgentWithWorkflows/">
+    <Project Path="section9-workflow-patterns/MinimalAgentWithWorkflows/AppHost/AppHost.csproj" />
+    <Project Path="section9-workflow-patterns/MinimalAgentWithWorkflows/ServiceDefaults/ServiceDefaults.csproj" />
+    <Project Path="section9-workflow-patterns/MinimalAgentWithWorkflows/WebApi/WebApi.csproj" />
+  </Folder>
 </Solution>
