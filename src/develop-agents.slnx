@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/section11-agentic-rag/">
+    <Project Path="section11-agentic-rag/BasicTextRAGExample/BasicTextRAGExample.csproj" Id="c086e424-8d7b-41e1-bf89-0000a3088105" />
+  </Folder>
   <Folder Name="/section4-setup/">
     <Project Path="section4-setup/HelloAgent/HelloAgent.csproj" />
   </Folder>
