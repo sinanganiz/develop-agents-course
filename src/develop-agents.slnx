@@ -3,6 +3,9 @@
     <Project Path="section11-agentic-rag/BasicTextRAGExample/BasicTextRAGExample.csproj" Id="c086e424-8d7b-41e1-bf89-0000a3088105" />
     <Project Path="section11-agentic-rag/QdrantVectorStore/QdrantVectorStore.csproj" Id="ab3f9a8a-33df-4353-a6b9-bb29b3a7f1d5" />
   </Folder>
+  <Folder Name="/section13-a2a/">
+    <Project Path="section13-a2a/EnterpriseComplianceService/EnterpriseComplianceService.csproj" Id="c0ceae0a-ec39-4366-bd5a-f98e2e3140b3" />
+  </Folder>
   <Folder Name="/section4-setup/">
     <Project Path="section4-setup/HelloAgent/HelloAgent.csproj" />
   </Folder>
