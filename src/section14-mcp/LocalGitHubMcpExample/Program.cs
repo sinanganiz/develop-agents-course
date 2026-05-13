@@ -25,7 +25,7 @@ Console.WriteLine($"[System] Discovered {mcpTools.Count()} tools from the local 
 
 // 3. Initialize the Enterprise Agent
 // We cast the discovered MCP tools into native AITool definitions and inject them into the agent.
-var endpoint = Environment.GetEnvironmentVariable("AZURE_OPENAI_ENDPOINT");
+var endpoint = Environment.GetEnvironmentVariable("AZURE_OPENAI_ENDPOINT") ?? throw new InvalidOperationException("AZURE_OPENAI_ENDPOINT is not set.");
 var deploymentName = Environment.GetEnvironmentVariable("AZURE_OPENAI_DEPLOYMENT_NAME") ?? "gpt-5-mini";
 
 AIAgent releaseAgent = new AzureOpenAIClient(new Uri(endpoint), new AzureCliCredential())

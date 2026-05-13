@@ -7,6 +7,7 @@
     <Project Path="section13-a2a/EnterpriseComplianceService/EnterpriseComplianceService.csproj" Id="c0ceae0a-ec39-4366-bd5a-f98e2e3140b3" />
   </Folder>
   <Folder Name="/section14-mcp/">
+    <Project Path="section14-mcp/HostedMcpGovernanceExample/HostedMcpGovernanceExample.csproj" Id="43c1a5f0-66ee-4b4c-ae4e-5dafb1e25bba" />
     <Project Path="section14-mcp/LocalGitHubMcpExample/LocalGitHubMcpExample.csproj" Id="bff03325-35cf-40a4-9993-860d129b4006" />
   </Folder>
   <Folder Name="/section4-setup/">
