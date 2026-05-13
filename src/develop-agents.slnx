@@ -10,6 +10,10 @@
     <Project Path="section14-mcp/HostedMcpGovernanceExample/HostedMcpGovernanceExample.csproj" Id="43c1a5f0-66ee-4b4c-ae4e-5dafb1e25bba" />
     <Project Path="section14-mcp/LocalGitHubMcpExample/LocalGitHubMcpExample.csproj" Id="bff03325-35cf-40a4-9993-860d129b4006" />
   </Folder>
+  <Folder Name="/section15-ag-ui/">
+    <Project Path="section15-ag-ui/Client/Client.csproj" Id="dfce0b39-c1b3-4ec7-92a2-f6a5470f644a" />
+    <Project Path="section15-ag-ui/Server/Server.csproj" />
+  </Folder>
   <Folder Name="/section4-setup/">
     <Project Path="section4-setup/HelloAgent/HelloAgent.csproj" />
   </Folder>
